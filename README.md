@@ -1,3 +1,3 @@
 Hello, I'm Kade Miller, You can call me Kade, I'm a professor at the University of Oxford.
 
-[![](https://raw.githubusercontent.com/amitmerchant1990/amitmerchant1990/master/amitmerchant_banner.png)](UCV.EDU/KadeMiller)
+[![](https://sidewalk-pro.s3-us-west-2.amazonaws.com/images/956cfa1d-e470-460a-b223-a1100baeef94-500w)](UCV.EDU/KadeMiller)
